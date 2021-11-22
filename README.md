@@ -13,7 +13,12 @@
 
   ## Github username: jdesgarennes
 
+  ## Link to repo: https://github.com/jdesgarennes/E-Commerce-Back-End
+
   ## License type: MIT
+
+  ## Link to vide: https://watch.screencastify.com/v/uubY9Hahyf7LlrPJciHB
+
 
 
   
